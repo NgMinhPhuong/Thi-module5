@@ -1,0 +1,15 @@
+.header {
+    background-color: #333; /* Màu nền */
+    color: #fff; /* Màu chữ */
+    padding: 20px; /* Khoảng cách đệm */
+    text-align: center; /* Căn giữa nội dung */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Hiệu ứng bóng đổ */
+  }
+
+  /* Style for the heading text */
+  .header h1 {
+    margin: 0; /* Loại bỏ khoảng đệm trên và dưới đầu tiên */
+    font-size: 24px; /* Cỡ chữ */
+    letter-spacing: 2px; /* Khoảng cách giữa các chữ cái */
+    text-transform: uppercase; /* Viết hoa */
+  }
